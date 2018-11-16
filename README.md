@@ -6,6 +6,10 @@ Your subject for today's test are Code Monkey and Blockly. The test consist of t
 For your Project test, your mission is to get all the bananas in every maze. **Please use all the given commands properly.**
 To proceed, please follow these links:
 
+## Project
+
+![Projects](image/SD2_Mls4_Projects.png)
+
 ### Project - Challenge 1
 https://tinyurl.com/newMilestoneSD2-4-1 
 
