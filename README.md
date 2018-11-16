@@ -23,4 +23,8 @@ For your Debug test, please remake the given codes below on the given Blockly ch
 ### Debug - Challenge 1
 https://blockly-games.appspot.com/movie?lang=en&level=4
 ![Debug 1](SD2_Mls4_Debug1.png)
+
+### Debug - Challenge 2
+https://blockly-games.appspot.com/bird?lang=en&level=8
+![Debug 2](SD2_Mls4_Debug2.png)
 ## GOOD LUCK
