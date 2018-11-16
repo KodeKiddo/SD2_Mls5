@@ -27,4 +27,9 @@ https://blockly-games.appspot.com/movie?lang=en&level=4
 ### Debug - Challenge 2
 https://blockly-games.appspot.com/bird?lang=en&level=8
 ![Debug 2](image/SD2_Mls4_Debug2.png)
+
+### Debug - Challenge 3
+https://blockly-games.appspot.com/turtle?lang=en&level=7
+
+![Debug 2](image/SD2_Mls4_Debug3.png)
 ## GOOD LUCK
