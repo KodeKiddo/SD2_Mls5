@@ -3,10 +3,10 @@
 Welcome to SD2 Milestone Test 4 main page. You will be tested based on what you've learned in the previous meetings. 
 Your subject for today's test are Code Monkey and Blockly. The test consist of two parts; Project and Debug.
 
-For your Project test, your mission is to get all the bananas in every maze. **Please use all the given commands properly.**
-To proceed, please follow these links:
 
 ## Project
+For your Project test, your mission is to get all the bananas in every maze. **Please use all the given commands properly.**
+To proceed, please follow these links:
 
 ![Projects](image/SD2_Mls4_Projects.png)
 
