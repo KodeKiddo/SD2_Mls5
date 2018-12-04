@@ -22,6 +22,7 @@ https://tinyurl.com/newMilestoneSD2-4-3
 ### Project - Challenge 4
 https://tinyurl.com/newMilestoneSD2-4-4
 
+## Debug
 For your Debug test, please remake the given codes below on the given Blockly challenges. Spot the mistakes, and fix the bug.
 
 ### Debug - Challenge 1
