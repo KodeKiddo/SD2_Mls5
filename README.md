@@ -1,4 +1,3 @@
-test
 # SD2 Milestone Test 4
 
 Welcome to SD2 Milestone Test 4 main page. You will be tested based on what you've learned in the previous meetings. 
